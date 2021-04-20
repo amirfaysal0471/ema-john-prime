@@ -1,0 +1,21 @@
+.shop
+{
+    display: flex;
+    
+}
+.shoppart
+{
+ 
+    
+    border-right: 1px solid black;
+
+}
+.cartpart
+{
+
+ 
+    margin-right: 75px;
+    margin-left:75px;
+ 
+ 
+}

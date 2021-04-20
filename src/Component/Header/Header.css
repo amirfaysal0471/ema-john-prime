@@ -1,0 +1,42 @@
+.header img
+{
+    width: 480px;
+
+}
+
+.header 
+{
+
+    text-align: center;
+
+}
+
+.header a
+{
+
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    padding: 18px;
+
+
+}
+
+.header nav
+{
+    text-align: left;
+    background-color: black;
+    line-height: 70px;
+    padding-left: 30px;
+    
+    
+
+}
+nav a:hover
+{
+
+background-color: lightgray;
+cursor: pointer;
+
+
+}
